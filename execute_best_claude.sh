@@ -1,0 +1,1 @@
+ailice_web --modelID=anthropic:claude-3-5-sonnet-20241022 --contextWindowRatio=0.2 --chatHistoryPath=./chat_history

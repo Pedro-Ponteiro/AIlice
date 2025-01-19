@@ -1,0 +1,5 @@
+*.pyc
+ailice_history.json
+vecdb
+app.log
+.env
